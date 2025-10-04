@@ -1,4 +1,4 @@
-# task5_0
+# 02_info_app
 
 A new Flutter project.
 
