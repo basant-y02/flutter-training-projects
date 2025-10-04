@@ -1,4 +1,4 @@
-# task5_2
+# 03_news_app
 
 A new Flutter project.
 
